@@ -1,1 +1,12 @@
 vlan 10\nname cefive
+enable
+configure terminal
+vlan 10
+name VLAN10
+exit
+vlan 20
+name VLAN20
+exit
+vlan 30
+name VLAN30
+exit
